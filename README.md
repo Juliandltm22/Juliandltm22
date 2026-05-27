@@ -16,10 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juliandltm22&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliandltm22&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=Juliandltm22&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=Juliandltm22&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
