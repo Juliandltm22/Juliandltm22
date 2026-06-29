@@ -52,7 +52,7 @@
 </div>
 
 
-<!-- Statistics Section -->
+<!-- Top Half Statistics Section -->
 <div align="center">
   <hr style="height: 5px; background-color: #00d4ff; border: none;">
   <h2>Statistics</h2>
@@ -76,26 +76,23 @@
   </tr>
 </table>
 
-
-<!-- Contribution Stats Section -->
+<!-- Bottom Half Statistics Section -->
 <div align="center">
-  <hr style="height: 5px; background-color: #00d4ff; border: none;">
-  <h2>Contribution Graph</h2>
 
 <table>
   <tr>
   <td width="50%" align="center">
-    <h4>Most Used Languages</h4>
+    <h4>Github Streak</h4>
     <img
       src="https://streak-stats.demolab.com?user=Juliandltm22&theme=dark&hide_border=true&background=0d1b2a&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&stroke=00d4ff"
       alt="GitHub Streak"
     />
   </td>
   <td width="50%" align="center">
-    <h4>GitHub Stats</h4>
+    <h4>Contribution Graph</h4>
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=Juliandltm22&bg_color=0d1b2a&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true&custom_title=Julian's%20Altybaev's%20Contribution%20Graph"
-      alt="Activity Graph"
+      alt="Contribution Graph"
     />
   </td>
   </tr>
@@ -106,6 +103,6 @@
 <!-- Placeholder for empty space -->
 <h1> </h1>
 
-![](https://komarev.com/ghpvc/?username=Juliandltm22&color=00d4ff&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Juliandltm22&color=0d1b2a&style=flat-square&label=PROFILE+VIEWS&labelColor=00d4ff)
 
 </div>
