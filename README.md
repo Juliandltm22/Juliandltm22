@@ -91,7 +91,7 @@
   <td width="50%" align="center">
     <h4>Contribution Graph</h4>
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Juliandltm22&bg_color=0d1b2a&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true&custom_title=Julian's%20Altybaev's%20Contribution%20Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Juliandltm22&bg_color=0d1b2a&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true&custom_title=Julian's%20Contribution%20Graph"
       alt="Contribution Graph"
     />
   </td>
