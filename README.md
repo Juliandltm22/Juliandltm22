@@ -30,6 +30,22 @@
 
   <hr style="height: 5px; background-color: #3498db; border: none;">
   
-  <h2>🛠️ Tech Stack & Tools<h2>
+  <h2>🛠️ Tech Stack<h2>
+  
+  ### Programming Languages
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,php,powershell&perline=3" />
+  </p>
+
+  ### Frameworks & Libraries
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,fastapi,pytorch,nodejs,opencv,sklearn&perline=3" />
+  </p>
+
+  ### Tools & Platforms
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,docker,git,github,linux,figma,vscode,anaconda,kubernetes,notion,npm,ubuntu,verce&perline=3" />
+  </p>
+
 
 </div>
