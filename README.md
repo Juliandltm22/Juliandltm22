@@ -36,7 +36,7 @@
 
   ### Programming Languages
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,php,powershell&perline=3" />
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,c,html,css,js,mysql,php,powershell&perline=3" />
   </p>
 
   ### Frameworks & Libraries
